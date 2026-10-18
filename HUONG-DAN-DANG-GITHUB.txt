@@ -1,0 +1,13 @@
+HƯỚNG DẪN ĐĂNG PHIẾU TIẾNG VIỆT VUI LÊN GITHUB PAGES
+
+1. Mở tệp ZIP bằng cách giải nén.
+2. Mở github.com/new, tạo kho PUBLIC tên phieu-tieng-viet-vui.
+3. Vào kho vừa tạo → Add file → Upload files. Chọn TẤT CẢ tệp trong thư mục đã giải nén, bảo đảm index.html ở gốc kho.
+4. Nhấn Commit changes.
+5. Vào Settings → Pages → Deploy from a branch → main → /(root) → Save.
+6. Khi GitHub hiển thị Visit site, hãy nhấn để mở và lưu link.
+7. Trên iPhone: mở link bằng Safari → Chia sẻ → Thêm vào Màn hình chính.
+
+Không cần trả tiền để đăng kho Public đơn giản và dùng GitHub Pages theo giới hạn dịch vụ.
+
+LƯU Ý: Phiên bản này là ứng dụng Tiếng Việt riêng, không thay thế ứng dụng Toán. Nếu tải cập nhật trong tương lai, hãy thay index.html và những tệp thay đổi trong kho GitHub.

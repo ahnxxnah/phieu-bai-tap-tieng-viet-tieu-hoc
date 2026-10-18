@@ -1,0 +1,25 @@
+{
+  "name": "Phiếu Tiếng Việt Vui - Ôn tập lớp 1–5",
+  "short_name": "Tiếng Việt Vui",
+  "description": "Kiến thức cơ bản, bài tập, đáp án Tiếng Việt lớp 1–5 tham khảo Kết nối tri thức.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fd",
+  "theme_color": "#6754d8",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
